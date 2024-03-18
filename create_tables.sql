@@ -18,7 +18,7 @@ CREATE TABLE sales (
     CREATE TABLE products (
         product_id INTEGER PRIMARY KEY,
         product_name TEXT,
-        product_category TEXT,
+        category TEXT,
         product_description TEXT
     );
     CREATE TABLE regions (
