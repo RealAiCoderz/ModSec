@@ -1,0 +1,101 @@
+product_id,product_name,category,price
+101,Product A,Electronics,500
+102,Product B,Clothing,800
+103,Product C,Home Decor,300
+104,Product D,Electronics,1000
+105,Product E,Beauty,1500
+106,Product F,Sports,600
+107,Product G,Clothing,1200
+108,Product H,Home Decor,2000
+109,Product I,Electronics,700
+110,Product J,Beauty,1800
+111,Product K,Sports,900
+112,Product L,Clothing,1600
+113,Product M,Electronics,400
+114,Product N,Home Decor,1300
+115,Product O,Beauty,2200
+116,Product P,Sports,1000
+117,Product Q,Clothing,700
+118,Product R,Electronics,1500
+119,Product S,Home Decor,1800
+120,Product T,Beauty,1900
+121,Product U,Electronics,900
+122,Product V,Clothing,1400
+123,Product W,Home Decor,500
+124,Product X,Electronics,1800
+125,Product Y,Beauty,2200
+126,Product Z,Sports,1200
+127,Product AA,Clothing,800
+128,Product BB,Home Decor,1900
+129,Product CC,Electronics,1000
+130,Product DD,Beauty,2300
+131,Product EE,Sports,1300
+132,Product FF,Clothing,1100
+133,Product GG,Electronics,600
+134,Product HH,Home Decor,1500
+135,Product II,Beauty,2400
+136,Product JJ,Sports,1400
+137,Product KK,Clothing,900
+138,Product LL,Electronics,1600
+139,Product MM,Home Decor,1700
+140,Product NN,Beauty,2500
+141,Product AO,Electronics,900
+142,Product AP,Clothing,1600
+143,Product AQ,Home Decor,700
+144,Product AR,Electronics,1300
+145,Product AS,Beauty,2400
+146,Product AT,Sports,1100
+147,Product AU,Clothing,800
+148,Product AV,Home Decor,1700
+149,Product AW,Electronics,1000
+150,Product AX,Beauty,2000
+151,Product AY,Sports,1500
+152,Product AZ,Clothing,300
+153,Product BA,Electronics,1600
+154,Product BB,Home Decor,1900
+155,Product BC,Beauty,2200
+156,Product BD,Sports,800
+157,Product BE,Clothing,700
+158,Product BF,Electronics,1400
+159,Product BG,Home Decor,1800
+160,Product BH,Beauty,2500
+161,Product BI,Electronics,950
+162,Product BJ,Clothing,1700
+163,Product BK,Home Decor,600
+164,Product BL,Electronics,1200
+165,Product BM,Beauty,2300
+166,Product BN,Sports,1000
+167,Product BO,Clothing,750
+168,Product BP,Home Decor,1600
+169,Product BQ,Electronics,1100
+170,Product BR,Beauty,2100
+171,Product BS,Sports,1550
+172,Product BT,Clothing,500
+173,Product BU,Electronics,1300
+174,Product BV,Home Decor,1800
+175,Product BW,Beauty,2200
+176,Product BX,Sports,850
+177,Product BY,Clothing,650
+178,Product BZ,Electronics,1400
+179,Product CA,Home Decor,1900
+180,Product CB,Beauty,2400
+181,Product CC,Electronics,950
+182,Product CD,Clothing,1700
+183,Product CE,Home Decor,600
+184,Product CF,Electronics,1200
+185,Product CG,Beauty,2300
+186,Product CH,Sports,1000
+187,Product CI,Clothing,750
+188,Product CJ,Home Decor,1600
+189,Product CK,Electronics,1100
+190,Product CL,Beauty,2100
+191,Product CM,Sports,1550
+192,Product CN,Clothing,500
+193,Product CO,Electronics,1300
+194,Product CP,Home Decor,1800
+195,Product CQ,Beauty,2200
+196,Product CR,Sports,850
+197,Product CS,Clothing,650
+198,Product CT,Electronics,1400
+199,Product CU,Home Decor,1900
+200,Product CV,Beauty,2400
