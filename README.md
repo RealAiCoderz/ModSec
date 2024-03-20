@@ -6,7 +6,9 @@ Tasks distribution:
   
   - Levels 5-7
     
-    Levels 11-12 = PIYUSH --------- (visualization + dashboard)
+    \+
+    
+    Levels 11-12 = PIYUSH ---------- (visualization + dashboard)
   
   - Levels 8-9 = RUPESH ----------- (python application in MVC design pattern)
 
