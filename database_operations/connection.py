@@ -7,8 +7,8 @@ class Connection:
         try:
             conn = mysql.connector.connect(
             host = "localhost",
-            user = "thisMe",
-            password = "tF0k2h#g",
+            user = "<username>",
+            password = "<password>",
             database = db_name
             )
         except Exception as e:
