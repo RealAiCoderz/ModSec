@@ -33,7 +33,7 @@ FROM sales
 GROUP BY year, month;
 
 --q5 SQL query to find the top-selling products by region.
-SELECT regions.region_name, products.product_name, SUM(sales.sales_amount) AS total_sales
+SELECT regions.region_name, products.product_name, COUNT(sales.sales_amount) AS total_sales
 FROM sales
 JOIN products ON sales.product_id = products.product_id
 JOIN regions ON sales.region_id = regions.region_id
