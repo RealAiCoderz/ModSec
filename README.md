@@ -1,7 +1,7 @@
 Project 2: Python Sales Outlook
 
 
-Task distribution:
+Tasks distribution:
   - Levels 1-4 = JESSICA ------------ (visualization)
   
   - Levels 5-7
