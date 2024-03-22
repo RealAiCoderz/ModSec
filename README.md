@@ -19,4 +19,4 @@
   Level_11&12 : .py file for Streamlit interactive dashboard visualization.
   
   Level_8&9 : Folder containing 'customers, products, regions & sales' .csv files to be stored in database. 
-  And the .py files in MVC design pattern to connect to, populatte and make queries in the MySQL database.
+  And the .py files in MVC design pattern to connect to, populate and make queries in the MySQL database.
