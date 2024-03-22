@@ -13,7 +13,7 @@ Project 2: Python Sales Outlook
    - Levels 8-9 = RUPESH ----------- (python application in MVC design pattern)
 
 
-- *dashboard too to be published here soon
+- dashboard.pbix now available inside ./visualization
 
 
 - All levels' python questions are in ./visualization/visualizations.ipynb/pdf
